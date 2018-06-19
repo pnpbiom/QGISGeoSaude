@@ -1,0 +1,39 @@
+# This file contains metadata for your plugin. Since 
+# version 2.0 of QGIS this is the proper way to supply 
+# information about a plugin. The old method of 
+# embedding metadata in __init__.py will 
+# is no longer supported since version 2.0.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=Plugin QGIS - GeoSaude
+qgisMinimumVersion=3.0
+description=Plugin que permite carregar indicadores do GeoSaude no QGIS
+version=0.1
+author=UMinho
+email=alunos@uminho
+
+about=Este plugin permite carregar indicadores, disponibilizados pelo site GeoSaude, no QGIS. Estes indicadores correspondem a dados relacionados com a saúde dos portugueses em mapas e também a localização de centros de saúde e farmácias em Portugal.
+
+tracker=http://bugs
+repository=http://repo
+# End of mandatory metadata
+
+# Recommended items:
+
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=python
+
+homepage=http://homepage
+category=Plugins
+icon=icon.png
+# experimental flag
+experimental=True
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
