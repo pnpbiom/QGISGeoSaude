@@ -1,6 +1,6 @@
-# Plugin QGis - GeoSaude
+# Plugin QGIS - GeoSaude
 
-O *Plugin QGis - GeoSaude* permite carregar indicadores, disponibilizados na página [GeoSaude](http://www.geosaude.dgs.pt), para um software de geoprocessamento: o QGIS. Para além destes indicadores, que correspondem a dados relacionados com a saúde dos portugueses apresentados em mapas, foram ainda incluídas camadas indicativas da localização de centros de saúde e farmácias em Portugal.
+O *Plugin QGIS - GeoSaude* permite carregar indicadores, disponibilizados na página [GeoSaude](http://www.geosaude.dgs.pt), para um software de geoprocessamento: o QGIS. Para além destes indicadores, que correspondem a dados relacionados com a saúde dos portugueses apresentados em mapas, foram ainda incluídas camadas indicativas da localização de centros de saúde e farmácias em Portugal.
 
 O presente plugin apenas é suportado pela versão 3.0. do QGIS.
 
